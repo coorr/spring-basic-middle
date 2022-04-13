@@ -1,6 +1,5 @@
 package com.example.demo.config.v1_proxy.interface_proxy;
 
-import com.example.demo.app.v1.OrderRepositoryV1;
 import com.example.demo.app.v1.OrderServiceV1;
 import com.example.demo.trace.TraceStatus;
 import com.example.demo.trace.logtrace.LogTrace;
