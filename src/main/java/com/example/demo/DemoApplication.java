@@ -16,7 +16,7 @@ import org.springframework.context.annotation.Import;
 //@Import({AppV1Config.class, AppV2Config.class})
 //@Import(DynamicProxyBasicConfig.class)
 @Import(AopConfig.class)
-@SpringBootApplication(scanBasePackages = "com.example.demo.app")
+@SpringBootApplication(scanBasePackages = "com.example.demo.internalcall")
 public class DemoApplication {
 
 	public static void main(String[] args) {
